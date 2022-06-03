@@ -1,0 +1,34 @@
+.Card{
+    border: 1px solid;
+    border-color: rgb(201, 200, 200);
+    background-color:whitegray;
+    height: auto;
+    width: 300px;
+    border-radius:8px;
+    box-shadow: 2px 2px 2px 2px gray ; 
+  
+}
+
+.description{
+    text-align: left;
+    font-weight: 500;
+    
+}
+
+.name{
+    font-weight: 500;
+    margin-right: 130px;
+    
+}
+
+.nameTwo{
+    font-weight: 700
+}
+
+.cardTitle{
+    display: flex;
+    flex-direction: row;
+    margin-left: 17px;
+    background-color:rgb(132, 236, 230);
+    width: fit-content;
+}

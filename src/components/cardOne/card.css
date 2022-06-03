@@ -1,0 +1,53 @@
+.Card{
+    border: 1px solid;
+    border-color: rgb(201, 200, 200);
+    background-color:whitegray;
+    height: auto;
+    width: 300px;
+    border-radius:8px;
+    box-shadow: 2px 2px 2px 2px gray ; 
+    cursor: pointer;
+    
+}
+
+.qBraidImg{
+    height: 27px;
+    width: 32px;
+    padding-top: 10px;
+}
+
+.iconImg{
+    height: 27px;
+    width: 32px;
+    margin-right: 230px;
+    
+}
+
+.description{
+    text-align: left;
+    font-weight: 500;
+    
+}
+
+.logoImg{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-right: 142px;
+}
+
+.logoName{
+    font-weight: 500;
+}
+
+.logoNameTwo{
+    color: rgb(121, 121, 121);
+}
+
+.cardTitle{
+    display: flex;
+    flex-direction: row;
+    margin-left: 17px;
+    background-color:rgb(147, 140, 199);
+    width: 100px;
+}

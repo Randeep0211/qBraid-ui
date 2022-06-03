@@ -1,0 +1,14 @@
+.title{
+    display: flex;
+    flex-direction: row;
+    margin-left:10px
+}
+
+.description{
+    display: flex;
+    flex-direction: row;
+    font-weight:700;
+    color: rgb(107, 107, 107);
+    margin-left: 10px;
+}
+
